@@ -8,6 +8,9 @@ A modern, professional e-commerce product gallery built with React 19, TypeScrip
 ![Vite](https://img.shields.io/badge/Vite-8.0.0-646CFF)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+## ✨ Demo
+https://new-mart.onrender.com/
+
 ## ✨ Features
 
 ### 🎨 **Modern UI/UX**
